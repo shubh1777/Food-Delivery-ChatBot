@@ -1,6 +1,4 @@
-Certainly! Below is a template for a `CONTRIBUTE.md` file for your food delivery chatbot project. This file provides guidelines for contributors who want to participate in the development of your project.
-
-```markdown
+```
 # Contributing to Food Delivery Chatbot Project
 
 Welcome to the Food Delivery Chatbot project! We're excited that you're interested in contributing. Whether you're a developer, designer, tester, or someone with great ideas, your contributions are valuable.
